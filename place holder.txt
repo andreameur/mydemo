@@ -1,0 +1,11 @@
+rsa manager
+
+__PROD_IT_RSA_SAP_PWD__				:Domani01
+__PROD_IT_RSA_ABBACC_SECRET__			: 1gzatPQsp3qa6wt64txqcb8CruOH0jupuYKCKT5svqE= (valore "strano")
+
+
+spgateway_prod
+__PROD_IT_SPGTW_EXT_LOGDB_PWD__: ynsfLrhY8q3I1Fb0
+
+Digital_Delivery_Note
+__PROD_IT_DDN_ABBACC_SECRET__: +jW/IGtjHma/3DBPuRSeqw+YWINsNOiz+uuxmuvall8=

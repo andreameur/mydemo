@@ -1,0 +1,7 @@
+ticambio: code review
+incident pps
+
+venerid:
+incident pps
+call con matteo per devsecops
+call con indicom
